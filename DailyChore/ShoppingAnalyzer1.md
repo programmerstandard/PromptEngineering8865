@@ -1,0 +1,1 @@
+Here's my grocery receipt [paste your receipt here]. Show me which I overspent, cheaper alternatives and how to cut my bill by [number]%.
