@@ -1,4 +1,4 @@
-# Prompt Ideas
+# Prompt Engineering
 
 ```bash
 prompt for support your work, learn and any other useful activities.
