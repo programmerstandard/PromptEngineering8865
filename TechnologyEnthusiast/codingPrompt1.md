@@ -28,6 +28,13 @@
 
 ---
 
+## Example
+
+```yaml
+Write a C Program for health care company 
+
+---
+
 ### Notes
 
 * Technology, User, Input and Validation above is only for samples. You can modify according to your requirements.
