@@ -31,7 +31,9 @@
 ## Example
 
 ```yaml
-Write a C Program for health care company 
+Write a C Program for a health care company.
+Input the calculation of the area of the shape. Validation about validate the number.
+```
 
 ---
 
