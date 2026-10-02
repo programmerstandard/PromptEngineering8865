@@ -26,6 +26,8 @@
 * validate the quantity of input
 * validate the number
 
+---
+
 ### Notes
 
-* Technology, User, Input and Validation above is only for samples.
+* Technology, User, Input and Validation above is only for samples. You can modify according to your requirements.
