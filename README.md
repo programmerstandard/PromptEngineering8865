@@ -14,6 +14,7 @@ For everyone to work as any profession and career.
 * Artificial Intelligence;Murat Durmus
 * Machine Learning Series;PacktPub
 * Neural Networks and Learning Machines;Pearson 
+* Facebook, Google
 
 ----
 
