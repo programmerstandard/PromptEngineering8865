@@ -1,6 +1,6 @@
 # Business Activities Sample
 
-## Operational Activities 
+## Operational Activities, Investment, And Financial
 * Stock And Inventory Tracker
 * Manufacturing Executing System
 * Enterprise Resource Planning
