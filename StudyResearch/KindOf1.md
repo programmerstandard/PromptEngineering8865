@@ -13,7 +13,7 @@
 * Geometry
 * Trigonometry
 * Calculus
-* Statistics Ad Probability
+* Statistics And Probability
 
 ## Kind Of Study Activities
 
