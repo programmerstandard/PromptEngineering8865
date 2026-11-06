@@ -18,5 +18,14 @@
 ## Kind Of Study Activities
 
 * Build A Study Schedule
-* Get Simple Explanation
-* Get Study Techniques Advice
+* Provide A Simple Explanation
+* Provide Study Techniques Advice
+* Provide A Structure Summary Text
+* Provide A List Key Concepts
+* Design An Outline Study
+* Generate Quizzes
+* Generate Flash Card Sets
+* Generate A Step By Step Guide
+* Provide A Hint From An Exercise Question
+* Grading From An Assignment
+* Provide A Guide To Learn From My Assignment Score
