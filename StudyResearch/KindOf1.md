@@ -14,3 +14,8 @@
 * Trigonometry
 * Calculus
 * Statistics Ad Probability
+
+## Kind Of Study Activities
+
+* Build a study schedule
+* Get Simple Explanation
