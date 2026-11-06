@@ -6,6 +6,20 @@
 * tutor
 * mentor
 
+## Kind Of Learning Experience
+
+* Calm
+* Careful
+* Clarity
+* Comprehensive
+* Distinctive
+* Friendly
+* Humble
+* Kind
+* Patience
+* Progressive
+* Responsive
+
 ## Kind Of Mathematics Lessons
 
 * Arithmetic
