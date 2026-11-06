@@ -17,5 +17,6 @@
 
 ## Kind Of Study Activities
 
-* Build a study schedule
+* Build A Study Schedule
 * Get Simple Explanation
+* Get Study Techniques Advice
