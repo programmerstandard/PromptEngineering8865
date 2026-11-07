@@ -1,6 +1,6 @@
 # Operation Prompt
 
-# Goal
+# Goal Example
 
 Integration, Quality, Reliable
 
@@ -15,3 +15,4 @@ Review a project structure [paste in here or upload a document] into [step by st
 
 ```dart
 Kindly check my task [paste in here or upload a document] in a project structure into step by step implementation plan. List all [components, APIs, pages, and tasks] in the right order.
+```
