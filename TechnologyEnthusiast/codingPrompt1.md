@@ -1,6 +1,6 @@
 # Computer Coding Prompt
 
-## Write a [Technology] program
+## Write a [Context or Programming Language Technology] program
 
 * C
 * Python
