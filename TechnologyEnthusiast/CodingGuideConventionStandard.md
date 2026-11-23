@@ -13,3 +13,9 @@ The CERT Secure Coding Team
 BARR Coding Standard
 
 > `Embedded C Coding Standard (BARR-C:2018)`
+
+## PHP Programming Language Standard 
+
+PHP Standard Recommendations-1 (PHP FIG)
+
+> `PSR-1: Basic Coding Standard`
